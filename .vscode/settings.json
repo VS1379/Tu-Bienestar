@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "Jetbrains Mono",
+    "editor.fontLigatures": true,
+    "editor.fontVariations": false,
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+        "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, next.config.mjs, postcss.config.mjs, .gitignore, .eslintrc.json, postcss.config.js"
+    }
+}
